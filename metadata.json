@@ -1,0 +1,5 @@
+{
+  "name": "Encryption Key & IV Generator",
+  "description": "A secure, client-side tool to generate strong cryptographic keys and initialization vectors (IVs) for various encryption algorithms like AES-CBC and AES-GCM.",
+  "requestFramePermissions": []
+}
